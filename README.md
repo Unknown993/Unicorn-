@@ -14,14 +14,14 @@
 [![Contributors](https://img.shields.io/github/contributors/Aadhi000/Auto-Filter-Bot?style=flat-square&color=green)](https://github.com/CyniteOfficial/Auto-Filter-Bot/graphs/contributors)
 ## Features
 
-- [x] Auto Filter
+- [✓] Auto Filter
 - [x] Manual Filter
-- [x] IMDB
+- [✓] IMDB
 - [x] Admin Commands
-- [x] Broadcast
+- [✓] Broadcast
 - [x] Index
-- [x] IMDB search
-- [x] Inline Search
+- [✓] IMDB search
+- [✓] Inline Search
 - [x] Random pics
 - [x] ids and User info 
 - [x] Stats, Users, Chats, Ban, Unban, Leave, Disable, Channel
